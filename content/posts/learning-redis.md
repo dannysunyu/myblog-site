@@ -18,8 +18,7 @@ draft = false
 
 {{< figure src="https://m.media-amazon.com/images/I/419SUZus+4L.jpg" title="Redis for Dummies" width="300px" height="480px" >}}
 
-介绍一个Redis云环境，可以选择一个最基本的免费套餐来创建一个数据库，用来学习是足够了。
-推荐使用这个云环境使用起来非常方便。我是懒得在本地安装、配置一个Redis实例了。
+介绍一个叫[Redis Cloud](https://redis.com/cloud/overview/)的云产品。可以免费试用30天来创建一个数据库，用来学习是足够了。最基本的套餐也只要5美元/月。推荐使用这个云环境使用起来非常方便。我是懒得在本地安装、配置一个Redis实例了。
 
 # 工具
 
