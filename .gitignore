@@ -1,0 +1,12 @@
+# 忽略 Hugo 生成的公共文件
+public/
+
+# 忽略 Hugo 资源缓存
+resources/_gen/
+
+# 忽略 Node 依赖包
+node_modules/
+
+# 忽略其他临时文件
+*.log
+*.tmp
