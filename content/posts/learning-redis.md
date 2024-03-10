@@ -28,3 +28,7 @@ draft = false
 {{< figure src="https://redis.com/wp-content/uploads/2022/11/redisinsight-dashboard-illustration-2.svg?&auto=webp&quality=85,75&width=600" title="RedisInsight" width="600px">}}
 
 此外，黑马程序员的Redis课程也不错。
+
+# 认证考试
+
+没想到Redis生态真是健全，还有[认证考试](https://university.redis.com/certification/)，不知道含金量如何。
