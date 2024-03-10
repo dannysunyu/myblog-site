@@ -32,3 +32,9 @@ draft = false
 # 认证考试
 
 没想到Redis生态真是健全，还有[认证考试](https://university.redis.com/certification/)，不知道含金量如何。
+
+Claude AI给我我如下的回复：
+
+> Redis Certification考试的费用和考试方式情况如下:
+> Redis认证考试分为两个级别:Redis Certified Developer（149美元）和Redis Certified Data
+> Persistence Specialist（249美元）。
