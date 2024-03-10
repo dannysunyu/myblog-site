@@ -1,7 +1,7 @@
 +++
 title = '学习Redis'
 date = 2024-03-10T20:52:43+08:00
-draft = true
+draft = false
 +++
 
 最近打算系统地学习Redis了。想网上找些优质的资源，结果发现好的不多。
