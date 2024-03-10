@@ -6,6 +6,8 @@ draft = true
 
 最近打算系统地学习Redis了。想网上找些优质的资源，结果发现好的不多。
 
+# 书
+
 推荐一本叫[《Redis in Action》](https://www.manning.com/books/redis-in-action),2013年出版的。这本书居然直到如今都没有更新，可能因为内容并没有过时。
 
 {{< figure src="https://images.manning.com/360/480/resize/book/8/00f2522-76ce-4594-8564-541254e6d8f0/carlson.png" title="Redis in Action" width="300px" height="480px" >}}
@@ -19,6 +21,10 @@ draft = true
 介绍一个Redis云环境，可以选择一个最基本的免费套餐来创建一个数据库，用来学习是足够了。
 推荐使用这个云环境使用起来非常方便。我是懒得在本地安装、配置一个Redis实例了。
 
-最后，推荐从Redis官网下载一款叫[RedisInsight](https://redis.com/redis-enterprise/redis-insight/)的GUI工具。可以直接连接一个本地或是远程的多个Redis实例。
+# 工具
+
+推荐从Redis官网下载一款叫[RedisInsight](https://redis.com/redis-enterprise/redis-insight/)的GUI工具。可以直接连接一个本地或是远程的多个Redis实例。
 
 {{< figure src="https://redis.com/wp-content/uploads/2022/11/redisinsight-dashboard-illustration-2.svg?&auto=webp&quality=85,75&width=600" title="RedisInsight" width="600px">}}
+
+此外，黑马程序员的Redis课程也不错。
