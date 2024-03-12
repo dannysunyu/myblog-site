@@ -48,7 +48,8 @@ style = 'monokailight'
 tabWidth = 4
 
 [taxonomies]
-tag = "tags"
+tags = "tags"
+categories = "categories"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

@@ -2,6 +2,7 @@
 title = 'Head First SQL的精要'
 date = 2024-02-17T22:30:10+08:00
 draft = false
+tags = ["sql", "mysql"]
 +++
 
 # Cartesian join（亦称Cross join或Cartesian product）

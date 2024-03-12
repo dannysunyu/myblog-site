@@ -2,19 +2,20 @@
 title = '学习Redis'
 date = 2024-03-10T20:52:43+08:00
 draft = false
+tags = ["redis"]
 +++
 
 最近打算系统地学习Redis。想花最少的时间快速地入门Redis。尝试在网上搜些优质的资源，结果发现好的不多，整理如下：
 
 # 好书
 
-第一本书是[《Redis for Dummies》](https://redis.com/redis-for-dummies/)第二版，可以从[redis.com](https://redis.com/)官网免费下载。
+第一本书是[「Redis for Dummies」](https://redis.com/redis-for-dummies/)第二版，可以从[redis.com](https://redis.com/)官网免费下载。
 
 {{< figure src="https://m.media-amazon.com/images/I/419SUZus+4L.jpg" title="Redis for Dummies" width="300px" height="480px" >}}
 
 我会把读书的笔记整理到一篇博文中。
 
-第二本叫[《Redis in Action》](https://www.manning.com/books/redis-in-action),2013年出版的。这本书居然直到如今都没有更新，可能因为内容并没有过时。
+第二本叫[「Redis in Action」](https://www.manning.com/books/redis-in-action),2013年出版的。这本书居然直到如今都没有更新，可能因为内容并没有过时。
 
 {{< figure src="https://images.manning.com/360/480/resize/book/8/00f2522-76ce-4594-8564-541254e6d8f0/carlson.png" title="Redis in Action" width="300px" height="480px" >}}
 
