@@ -11,6 +11,20 @@ tags = ["spring boot", "spring"]
 
 此外，作者有些书目的推荐。
 
+```java
+@RestController
+public class HelloController {
+
+  @GetMapping("/hello")
+  public String hello() {
+    return "Hello!";
+  }
+
+}
+```
+
+The `@RestController` annotation registers the bean in the context and tells Spring that the application uses this instance as a web controller.
+
 # 微服务
 
 > Software architecture and its evolution is such a fantastic and complex subject. I don’t think there’ll ever be too many books to cover this subject thoroughly. I’ve added this discussion to the book to help you understand the references I’ll make to these notions. Still, you might want to go deeper into the subjects, so here’s a list of books from my shelf. The books are in the order I recommend you read them.
