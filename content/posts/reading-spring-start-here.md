@@ -1,11 +1,11 @@
 +++
-title = 'Spring Start Here读书笔记📒'
+title = '「Spring Start Here」读书笔记📒'
 date = 2024-03-12T13:14:33+08:00
 draft = false
 tags = ["spring boot", "spring"]
 +++
 
-这本书是我见过质量最好的Spring入门书籍，真的是没有之一。但是价格要$49.99，真是不便宜啊。
+这本书是我见过质量最好的Spring入门书籍，真的是没有之一，我花了整整两周读完。但是价格要$49.99，真是不便宜啊。
 
 一直很稀奇，为何Spring这个流行的框架，社区中没有产出香Rails Tutorials那么高质量的入门实作读物。
 

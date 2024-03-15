@@ -6,6 +6,8 @@ draft = false
 
 Java专家Laurentiu Spilca于2020年出版了「Spring Security in Action」一书。
 
+这本书以Spring Boot v2.3.0和Java 11版本为基础。
+
 根据Manning Publications官方和Amazon上的讯息，他将于2024年4月出版本书第二版。
 
 {{< figure src="https://images.manning.com/360/480/resize/book/6/e751b54-0e51-4676-b05f-c0f023d152b9/Spilca-Spring-HI.png" title="Spring Security in Action" width="300px" height="480px" >}}
