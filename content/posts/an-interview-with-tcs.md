@@ -1,7 +1,7 @@
 +++
 title = 'An Interview With Tcs'
 date = 2024-03-15T18:35:12+08:00
-draft = true
+draft = false
 +++
 
 最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司。我猜是为UBS输送外包软件工程师。
@@ -20,24 +20,26 @@ draft = true
 
 5. 解释下Immutability/Immutable？
 
-6. 如何设计一个Immutable类？
+6. 如何设计一个Immutable类？比如一个Employee类。
 
-7. Spring Boot为Spring framework带来了哪些新特性？
+7. 有一组Employee，每个Employee属于某个Department的集合，如何用Streams API找出属于IT Department的所有Employee？
 
-8. 解释一下@SpringBootApplication的作用。
+8. Spring Boot为Spring framework带来了哪些新特性？
 
-9. 解释一下@RestController的作用。
+9. 解释一下@SpringBootApplication的作用。
 
-10. 谈一下Spring Data JPA。
+10. 解释一下@RestController的作用。
 
-11. Spring Boot应用如何做Health Check？
+11. 谈一下Spring Data JPA。
 
-12. 微服务中的Circuit Breaker是做什么的？
+12. Spring Boot应用如何做Health Check？
 
-13. 微服务彼此之间是如何通信的？
+13. 微服务中的Circuit Breaker是做什么的？
 
-14. 如何设计一个OpenFeign的类？
+14. 微服务彼此之间是如何通信的？
 
-15. 什么是Solid Principles？
+15. 如何设计一个OpenFeign的类？
 
-16. 什么是Twelve-Factor App？
+16. 什么是Solid Principles？
+
+17. 什么是Twelve-Factor App？
