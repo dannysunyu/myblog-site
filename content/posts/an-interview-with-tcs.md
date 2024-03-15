@@ -1,16 +1,18 @@
 +++
-title = 'An Interview With Tcs'
+title = '塔塔咨询服务的面试'
 date = 2024-03-15T18:35:12+08:00
 draft = false
 +++
 
-最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司。我猜是为UBS输送外包软件工程师。
+最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司。面试的岗位是Java后端。
+
+这家国际(印度)咨询公司有许多的客户。我猜这个岗位的客户是UBS。
 
 面试进行了35分钟左右。这里记录一下面试题。
 
-面试围绕着Java、Spring Boot和Microservices进行提问。
+面试题围绕着Java、Spring Boot和Microservices展开。
 
-1. Java 8带来了哪些新功能？
+1. Java 8（2014年3月发布的）带来了哪些新功能？
 
 2. Java接口的default methods有啥作用；Java 8为何要加入这个特性？
 
@@ -42,4 +44,4 @@ draft = false
 
 16. 什么是Solid Principles？
 
-17. 什么是Twelve-Factor App？
+17. 什么是[Twelve-Factor App](https://12factor.net/)？
