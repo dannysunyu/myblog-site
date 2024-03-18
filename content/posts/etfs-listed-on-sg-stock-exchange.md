@@ -1,7 +1,7 @@
 +++
 title = '新加坡交易所上值得买入的ETFs'
 date = 2024-03-18T14:40:06+08:00
-draft = true
+draft = false
 +++
 
 第一个是追踪[新加坡海峡时报指数](https://en.wikipedia.org/wiki/Straits_Times_Index)的一款[SPDR® Straits Times Index ETF](https://www.ssga.com/sg/en/institutional/etfs/funds/spdr-straits-times-index-etf-es3)；
