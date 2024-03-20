@@ -45,3 +45,5 @@ postgres=# \d notes
 Indexes:
     "notes_pkey" PRIMARY KEY, btree (id)
 ```
+
+> _In practice, a *migration* is a single JavaScript file that describes some modification to a database. A separate migration file is created for each single or multiple changes at once._

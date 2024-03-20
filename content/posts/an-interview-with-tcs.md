@@ -1,7 +1,8 @@
 +++
-title = '塔塔咨询服务的面试'
+title = '塔塔咨询服务的Java后端面试记录'
 date = 2024-03-15T18:35:12+08:00
 draft = false
+tags = ["interview", "java", "backend"]
 +++
 
 最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司。面试的岗位是Java后端。
@@ -24,7 +25,7 @@ draft = false
 
 6. 如何设计一个Immutable类？比如一个Employee类。
 
-7. 有一组Employee，每个Employee属于某个Department的集合，如何用Streams API找出属于IT Department的所有Employee？
+7. 有一组Employee，每个Employee属于某个Department的集合，如何用Java Stream API找出属于IT Department的所有Employee？
 
 8. Spring Boot为Spring framework带来了哪些新特性？
 
@@ -36,12 +37,12 @@ draft = false
 
 12. Spring Boot应用如何做Health Check？
 
-13. 微服务中的Circuit Breaker是做什么的？
+13. 微服务中的[Circuit Breaker](https://microservices.io/patterns/reliability/circuit-breaker.html)是做什么的？
 
 14. 微服务彼此之间是如何通信的？
 
 15. 如何设计一个OpenFeign的类？
 
-16. 什么是Solid Principles？
+16. 什么是[Solid Principles](<https://simple.wikipedia.org/wiki/SOLID_(object-oriented_design)>)？
 
 17. 什么是[Twelve-Factor App](https://12factor.net/)？
