@@ -20,3 +20,7 @@ tags = ["banking"]
 虽然不知道其他新加坡银行的情况，但我相信也是有这种没有最低存款要求的户头的。
 
 我会持续更新我的博文，让大家能够以最低成本持有银行账户。
+
+_请我喝杯咖啡_
+
+[<img src="https://tinyurl.com/57dkxa4f" width="120"/>](https://www.buymeacoffee.com/danielsun)
