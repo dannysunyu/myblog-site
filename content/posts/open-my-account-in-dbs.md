@@ -17,6 +17,8 @@ tags = ["banking"]
 
 > _This account caters to people who can't manage to deposit even hundreds of dollars._
 
+于是，我开了My Account账户，只存入了50新币，并成功把Tiger上的港币出金到这个账户上，没有收取手续费。
+
 虽然不知道其他新加坡银行的情况，但我相信也是有这种没有最低存款要求的账户的。
 
 我会持续更新我的博文，让大家能够以最低成本持有银行账户。
