@@ -23,6 +23,6 @@ tags = ["banking"]
 
 我会持续更新我的博文，让大家能够以最低成本持有银行账户。
 
-_请我喝杯咖啡_
+_请我喝杯咖啡吧！_
 
 [<img src="https://tinyurl.com/57dkxa4f" width="120"/>](https://www.buymeacoffee.com/danielsun)
