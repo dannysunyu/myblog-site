@@ -2,6 +2,7 @@
 title = '在DBS开My Account户头'
 date = 2024-03-21T13:15:23+08:00
 draft = false
+tags = ["banking"]
 +++
 
 我一直以为，开通DBS账户需要维持3000新币的最低存款要求，否则会被收取每月5新币的账户管理费。
