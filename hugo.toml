@@ -28,11 +28,6 @@ identifier = "posts"
 name = "Post"
 url = "/posts/"
 weight = -200
-[[menu.main]]
-identifier = "resume"
-name = "Resume"
-url = "https://resume.dannysun.site"
-weight = -300
 
 [markup]
 [markup.goldmark.renderer]
