@@ -1,5 +1,5 @@
 +++
-title = 'Install Java7 on Mac'
+title = '在Mac系统上安装Java 7最佳实践'
 date = 2014-09-16T14:02:10+08:00
 draft = false
 +++
