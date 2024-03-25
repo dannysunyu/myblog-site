@@ -5,6 +5,8 @@ draft = false
 tags = ["sql", "mysql"]
 +++
 
+这是一本很好的SQL入门书。
+
 第一章
 
 SQL is case-insensitive. But it's considered a good programming practice in SQL.

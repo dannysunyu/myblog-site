@@ -1,10 +1,9 @@
----
-layout: post
-title: "Java 8 Optional类的要点分析"
-date: 2018-06-11 21:15:02 +0700
-comments: true
-categories:
----
++++
+title = "Java 8 Optional类的要点分析"
+date = 2018-06-11T21:15:02+07:00
+draft = false
+tags = ["java"]
++++
 
 首先仔细浏览[Oracle](https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html)和[Android](https://developer.android.com/reference/java/util/Optional)官方API文档。
 

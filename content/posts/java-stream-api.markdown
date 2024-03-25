@@ -1,11 +1,10 @@
----
-layout: post
-title: "Java Stream API"
-date: 2018-06-06 18:02:25 +0700
-comments: true
-categories: Java
-keywords: 孙昱, octopress
----
++++
+title = "Java Stream API"
+date = 2018-06-06T18:02:25+07:00
+draft = false
+tags = ["java"]
++++
+
 Java 8引入了Stream的概念，掌握这个概念的最佳方式是阅读Java官方文档。
 
 <!-- more -->
