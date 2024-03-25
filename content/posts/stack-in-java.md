@@ -1,10 +1,9 @@
----
-layout: post
-title: "Stack in Java"
-date: 2018-09-02 20:17:01 +0800
-comments: true
-categories: algorithms
----
++++
+title = "Stack in Java"
+date = 2018-09-02T20:17:01+08:00
+draft = false
+tags = ["java", "algorithms"]
++++
 
 ##前言
 堆栈作为最基础的数据结构之一，在Java的最初版本就有了纯粹的标准实现：`java.util.Stack`。只可惜该实现存在性能缺陷，主要是由于主要的操作都加上了synchronized线程安全保护机制，导致无法被应用于对性能要求颇高的生产环境。

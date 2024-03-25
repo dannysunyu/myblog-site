@@ -1,10 +1,9 @@
----
-layout: post
-title: "Priority Queue in Java"
-date: 2018-09-03 11:30:01 +0800
-comments: true
-categories: algorithms
----
++++
+title = "Priority Queue in Java"
+date = 2018-09-03T11:30:01+08:00
+draft = true
+tags = ["algorithms", "java"]
++++
 
 In the queue abstraction presented in this chapter, new items are always added at the end of the queue and wait their turn in line. For some programming applications, it is useful to extend the simple queue abstraction into a priority queue, in which the order of the items is determined by a numeric priority value. When an item is enqueued in a priority queue, it is inserted in the list ahead of any lower priority items. If two items in a queue have the same priority, they are processed in the standard first-in/first-out order.
 Using the linked-list implementation of queues as a model, design and implement a pqueue.h interface that exports a class called PriorityQueue, which exports the same methods as the traditional Queue class with the exception of the enqueue method, which now takes an additional argument, as follows:

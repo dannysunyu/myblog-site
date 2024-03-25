@@ -1,10 +1,8 @@
----
-layout: post
-title: "top k algorithms"
-date: 2018-09-01 18:46:00 +0800
-comments: true
-categories: algorithms
----
++++
+title = "top k algorithms"
+date = 2018-09-01T18:46:00+08:00
+tags = ["algorithms", "interview"]
++++
 
 ##背景
 

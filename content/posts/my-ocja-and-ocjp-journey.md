@@ -1,14 +1,11 @@
----
-layout: post
-title: "谈谈我参加Java认证考试的经历"
-date: 2018-06-29 19:02:38 +0700
-comments: true
-categories:
----
++++
+title = "谈谈我参加Java认证考试的经历"
+date = 2018-06-29T19:02:38+07:00
+draft = true
+tags = ["java", "ocjp"]
++++
 
 还在读大学时就很想参加Java认真考试，当然，当时的Java还属于SUN公司的产品，所以也就叫SCJP考试。
-
-<!-- more -->
 
 当时一个年级的一个同学很是厉害，报考并通过了SCJP考试（如果没记错应该是Java 5的版本），当时很是很羡慕，也开始盘算去报考认证一下。
 

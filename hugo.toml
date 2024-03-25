@@ -1,7 +1,7 @@
 baseURL = 'https://blog.dannysun.site'
 languageCode = 'en-us'
 title = '码农技术终极研究室'
-paginate = 3
+paginate = 10
 theme = 'maverick'
 
 [permalinks]

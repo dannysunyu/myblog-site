@@ -1,10 +1,9 @@
----
-layout: post
-title: "Java Date and Time Problem"
-date: 2018-06-22 22:08:32 +0700
-comments: true
-categories:
----
++++
+title = "Java Date and Time Problem"
+date = 2018-06-22T22:08:32+07:00
+draft = false
+tags = ["java"]
++++
 
 https://www.hackerrank.com/challenges/java-date-and-time/problem
 

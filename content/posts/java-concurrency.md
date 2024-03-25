@@ -1,10 +1,9 @@
----
-layout: post
-title: "Java Concurrency"
-date: 2018-07-16 12:28:47 +0700
-comments: true
-categories:
----
++++
+title = "Java Concurrency"
+date = 2018-07-16T12:28:47+07:00
+tags = ["java"]
++++
+
 ##  为何要同步线程？
 >Since all threads run in the same address space, they all have access to the same data and variables. If two threads simultaneously attempt to update a global counter variable, it is possible for their operations to interleave in such way that the global state is not correctly modified. Although such a case may only arise only one time out of thousands, a concurrent program needs to coordinate the activities of multiple threads using something more reliable that just depending on the fact that such interference is rare.
 
