@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    <a class="skip-link" href="#main">Skip to main</a>
+    <main id="main">
+      <div class="content">
+        {{ partial "header.html" . }}
+        {{ .Content }}
+        {{ if gt (len ( where .Site.RegularPages "Section" "posts" )) 0 }}
+        <h1>最新的文章</h1>
+        <section>
+          {{ range (first 7 (where .Site.RegularPages "Section" "posts" ).ByDate.Reverse) }}
+          <p>
+            <time class="g time" datetime="{{ dateFormat " 2006-01-02" .Date }}">{{ dateFormat "2006-01-02" .Date }}</time>&nbsp;
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <p>
+            {{ end }}
+        </section>
+        {{ end }}
+      </div>
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=n&d=yu1BCrXIaVGmxEQICfWKHiREO7LqhQYMwkHOmgd6gLo'></script>
+    </main>
+  </body>
+
+</html>
