@@ -1,6 +1,6 @@
 baseURL = 'https://blog.dannysun.site'
-languageCode = 'en-us'
-title = '码农技术终极研究室'
+languageCode = 'zh'
+title = "Daniel Sun's Blogsite"
 paginate = 10
 theme = 'maverick'
 
@@ -10,13 +10,12 @@ pages = "/:slug"
 [params]
 logo = '/assets/favicon.ico'
 description = "A minimal hugo theme focus on content"
-author = 'Calvin Tran'
+author = 'Daniel Sun'
 custom_css = ["css/styles.css"]
 
 [params.comments]
 githubRepo = 'dannysunyu/myblog-site'
 theme = 'github-light'
-
 
 [menu]
 [[menu.main]]
