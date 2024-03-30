@@ -1,6 +1,6 @@
 baseURL = 'https://blog.dannysun.site'
 languageCode = 'zh'
-title = "Daniel Sun's Blogsite"
+title = "TechJournal"
 paginate = 10
 theme = 'maverick'
 

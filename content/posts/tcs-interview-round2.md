@@ -1,25 +1,28 @@
 +++
-title = 'Tcs Interview Round2'
+title = 'TATA咨询的第二轮面试'
 date = 2024-03-28T23:08:33+08:00
 draft = false
+tags = ["java", "backend", "interview"]
 +++
 
-1. What are the changes/features introduced to the recent versions of Java?
+1. 最近的Java版本中引入了哪些变化？
 
-2. What is record in Java?
+2. Java中的record是什么？
 
-3. How do design an immutable class?
+3. 什么是Immutable，它有什么好处？
 
-4. What features/changes does Java 8 bring?
+4. 如何设计一个Immutable类？
 
-5. How does ConcurrentHashMap make sure it's thread-safe? 
+5. Java 8带来了哪些变化？
 
-6. What is Spring Boot?
+6. 谈一下ConcurrentHashMap的实现。
 
-7. What starter dependencies do you use in your work?
+7. Spring Boot是什么？
 
-8. What is the L in SOLID Principles? Explain that principle.
+8. 过去用过哪些Spring Boot Starter Dependencies？
 
-9. Write a function that checks if all elements in an array are odd numbers.
+9. SOLID Principles中的**L**是指哪个原则？
 
-10. Solve this Leetcode problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+10. Write a function that checks if all elements in an array are odd numbers.
+
+11. 手写[Leetcode 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
