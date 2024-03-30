@@ -1,6 +1,6 @@
 baseURL = 'https://blog.dannysun.site'
 languageCode = 'zh'
-title = "TechJournal"
+title = "S先生的笔记📒"
 paginate = 10
 theme = 'maverick'
 
