@@ -21,8 +21,12 @@ tags = ["java", "backend", "interview"]
 
 8. 过去用过哪些Spring Boot Starter Dependencies？
 
-9. SOLID Principles中的**L**是指哪个原则？
+9. 什么是Dependency Injection？
 
-10. Write a function that checks if all elements in an array are odd numbers.
+10. Spring Boot中有哪几种Depedency Injection？
 
-11. 手写[Leetcode 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+11. SOLID Principles中的**L**是指哪个原则？
+
+12. Write a function that checks if all elements in an array are odd numbers.
+
+13. 手写[Leetcode 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
