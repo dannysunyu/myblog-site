@@ -11,6 +11,7 @@ pages = "/:slug"
 logo = '/assets/favicon.ico'
 description = "A minimal hugo theme focus on content"
 author = 'Calvin Tran'
+custom_css = ["css/styles.css"]
 
 [params.comments]
 githubRepo = 'dannysunyu/myblog-site'

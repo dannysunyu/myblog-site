@@ -1,0 +1,8 @@
+body {
+    font: 1.3rem/1.5 -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+}
+
+#clustrmap-container {
+    padding-top: 120px;
+    width: 100%;
+}
