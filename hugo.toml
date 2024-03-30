@@ -8,7 +8,7 @@ theme = 'maverick'
 pages = "/:slug"
 
 [params]
-logo = '/assets/favicon.ico'
+logo = '/images/favicon.png'
 description = "A minimal hugo theme focus on content"
 author = 'Daniel Sun'
 custom_css = ["css/styles.css"]
