@@ -5,7 +5,7 @@ draft = false
 tags = ["interview", "java", "backend"]
 +++
 
-最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司。面试的岗位是Java后端。
+最近面了一家叫[Tata Consultancy Services](https://www.tcs.com/)的咨询公司，面试的岗位是Java后端。
 
 这家国际(印度)咨询公司有许多的客户。我猜这个岗位的客户是UBS。
 
