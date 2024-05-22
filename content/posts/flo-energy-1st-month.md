@@ -34,6 +34,7 @@ TimescaleDB\
 Kubernetes\
 Camunda\
 AWS\
+nginx\
 Flywheel
 
 
