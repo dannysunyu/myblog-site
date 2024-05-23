@@ -25,8 +25,7 @@ Node.js\
 Spring Boot\
 PostgreSQL\
 Kafka\
-GraphQL\
-[GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)\
+GraphQL和[GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)\
 JUnit 5
 
 ## 高阶技能
@@ -35,9 +34,8 @@ Kubernetes\
 Camunda\
 AWS\
 nginx\
-Flywheel\
+Flyway\
 Terraform\
-Grafana\
 [Keycloak](https://www.keycloak.org/)：一个开源的身份和访问管理系统,提供了完整的认证、授权、用户管理等功能。它是一个独立的认证服务器,可以与多种应用程序集成。
 
 TBC...
