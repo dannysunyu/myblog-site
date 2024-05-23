@@ -35,7 +35,9 @@ Kubernetes\
 Camunda\
 AWS\
 nginx\
-Flywheel
+Flywheel\
+Terraform\
+Grafana
 
 TBC...
 
