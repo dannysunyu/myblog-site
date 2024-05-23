@@ -37,7 +37,8 @@ AWS\
 nginx\
 Flywheel\
 Terraform\
-Grafana
+Grafana\
+Keycloak
 
 TBC...
 
