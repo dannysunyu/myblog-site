@@ -16,23 +16,23 @@ Postman\
 SQL\
 IntelliJ IDEA\
 Gradle\
-Linux shell
+Linux基础
 
 ## 进阶技能
 [Kotlin](https://kotlinlang.org/)\
+JUnit 5\
 TypeScript\
 Node.js\
 Spring Boot\
 PostgreSQL\
 Kafka\
-GraphQL和[GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)\
-JUnit 5
+GraphQL和[GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)
+Kubernetes\
+AWS
 
 ## 高阶技能
 TimescaleDB\
-Kubernetes\
 Camunda\
-AWS\
 nginx\
 Flyway\
 Terraform\

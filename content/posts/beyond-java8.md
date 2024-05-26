@@ -8,6 +8,13 @@ draft = false
 
 当时我甚至觉得Kotlin这样新的JVM语言优于Java。Java已经不再是一门值得关注的语言。甚至我觉得我以后不太可能用Java了。
 
+Compiler bugs
+All software has bugs, and sometimes the JVM, the Java compiler, or both have bugs. When you are using a 10-year-old version of the JVM and Java compiler, you run a much greater risk of compiler bugs, especially around features introduced near to that release.
+
+There were many compilation problems around lambdas which were introduced in Java 8. If you are using the Java compiler from JDK 8 to target Java 8 JVMs you can still run into those bugs. Even if you are keeping your JDK 8 up-to-date many fixes are not backported. You can find ones on the issue tracker without much effort.
+
+Now is the Java compiler in JDK 22 completely bug-free? No. But is using the Java compiler from JDK 22 on sources targeting Java 8 using only Java 8 language features much safer than using one from JDK 8? Absolutely.
+
 
 
 
