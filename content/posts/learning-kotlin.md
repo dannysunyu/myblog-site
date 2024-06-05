@@ -4,6 +4,8 @@ date = 2024-05-24T18:05:54+08:00
 draft = false
 +++
 
+Kotlin的杀手锏是与Java的互操作性。
+
 **Kotlinx** — a set of optional, first-party libraries provided by JetBrains that extend on the base functionality in the 
 Kotlin language and standard library. The **Coroutines** library is also part of Kotlinx.
 
