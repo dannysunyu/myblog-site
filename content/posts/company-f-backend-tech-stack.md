@@ -9,7 +9,7 @@ draft = false
 算来刚满了一月。我想聊聊技术栈。公司主要使用Kotlin和TypeScript
 
 ## 基础技能：
-git\
+[Git](/posts/git-notes)：the popular version control system\
 Docker\
 REST API\
 Postman/cURL\
@@ -26,7 +26,9 @@ JUnit 5\
 Spring Boot\
 PostgreSQL\
 Kafka\
-[GraphQL](https://graphql.org/)，[Expedia Group™️ GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)\
+[GraphQL](https://graphql.org/)，[Expedia™️ GraphQL Kotlin](https://opensource.expediagroup.com/graphql-kotlin/docs)\
+[Jetbrains Exposed](https://jetbrains.github.io/Exposed/home.html): Exposed is a Kotlin SQL database library with two 
+flavors: a lightweight ORM (using DAO) and type-safe SQL (using DSL).\
 AWS\
 Camunda
 
