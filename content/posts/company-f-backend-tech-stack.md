@@ -15,7 +15,7 @@ REST API\
 Postman/cURL\
 SQL\
 IntelliJ IDEA\
-Gradle\
+[Gradle](https://docs.gradle.org/current/userguide/userguide.html)\
 Linux basics\
 TypeScript\
 Node.js\
