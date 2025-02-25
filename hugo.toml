@@ -1,8 +1,10 @@
 baseURL = 'https://blog.dannysun.site'
 languageCode = 'zh'
 title = "S先生の筆記📒"
-paginate = 10
 theme = 'maverick'
+
+[pagination]
+pagerSize = 10  # Replace with your desired value
 
 [permalinks]
 pages = "/:slug"
