@@ -1,5 +1,5 @@
 +++
-title = '安装PostgreSQL（Mac）'
+title = '安装PostgreSQL'
 date = 2025-03-03T15:54:57-07:00
 draft = false
 +++
