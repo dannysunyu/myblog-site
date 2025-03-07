@@ -37,11 +37,13 @@ draft = false
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/17/bin
 ```
 
-这样就能查看数据库服务器的版本号了：
+这样就能运行psql命令了：
 ```zsh
 % psql --version
 psql (PostgreSQL) 17.4 (Postgres.app)
 ```
+
+安装完毕后，与Postgres交互可以从psql命令行开始。需要掌握[psql的常用命令](/posts/essential-psql-commands)。
 
 _请我喝杯咖啡吧！_
 
