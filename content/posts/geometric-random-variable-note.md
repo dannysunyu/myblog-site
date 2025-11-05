@@ -1,5 +1,5 @@
 +++
-title = '几何随机变量的定义分歧'
+title = '两种几何随机变量的定义'
 date = 2025-11-03T21:50:59-07:00
 draft = false
 +++
@@ -22,3 +22,5 @@ dgeom(0, 0.5)
 ```
 
 这种定义的不一致带来毫无必要的麻烦。
+
+https://en.wikipedia.org/wiki/Geometric_distribution
